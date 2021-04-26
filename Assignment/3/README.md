@@ -12,9 +12,11 @@ Hãy xác định sau bao nhiêu ngày thì có thể bắt đầu việc trồn
 
 Ví dụ:
 INPUT
+
 2 4 3 3 25
 
 OUTPUT
+
 7
 
 
