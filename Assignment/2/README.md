@@ -10,8 +10,8 @@ Một người có n bài báo, bài báo thứ i có điểm trích dẫn là c
 
 **Dữ liệu**: Vào từ thiết bị nhập chuẩn:
 
-* Dòng đầu tiên chứa một số nguyên n (1 ≤ n ≤ 5×105),
-* Dòng thứ 2 chứa n số nguyên c1, c2, . . ., cn (0 ≤ ci ≤ 106, i = 1 ÷ n).
+* Dòng đầu tiên chứa một số nguyên n (1 ≤ n ≤ 5×10^5),
+* Dòng thứ 2 chứa n số nguyên c1, c2, . . ., cn (0 ≤ ci ≤ 10^6, i = 1 ÷ n).
 
 **Kết quả**: Đưa ra thiết bị xuất chuẩn một số nguyên – H_Index tìm được.
 
