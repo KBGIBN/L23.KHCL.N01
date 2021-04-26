@@ -1,4 +1,4 @@
-# TẢO BIỂN
+# VT50_SEAWEED - TẢO BIỂN
 Tảo biển sinh sản rất nhanh khi có môi trường thuận lợi với chúng và có những loài còn tiết ra môi trường những chất độc hại.
 
 Một loại tảo nâu trong môi trường nước bị ô nhiễm nặng sinh sản theo quy luật sau:
