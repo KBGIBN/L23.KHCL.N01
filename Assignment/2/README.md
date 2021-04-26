@@ -1,4 +1,4 @@
-# H_Index
+# VV27_H-Index - H_Index
 
 Làm thế nào để đánh giá sự thành công của một nhà khoa học?  Dựa vào số bài báo được công bố hay dựa vào số lần một bài báo được trích dẫn tới ở công trình của những người khác? Cả hai tham số đó đều quan trọng.
 
