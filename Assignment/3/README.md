@@ -11,6 +11,7 @@ Hãy xác định sau bao nhiêu ngày thì có thể bắt đầu việc trồn
 **Kết quả**: Đưa ra thiết bị xuất chuẩn một số nguyên – số ngày tính được.
 
 Ví dụ:
+
 INPUT
 
 2 4 3 3 25
