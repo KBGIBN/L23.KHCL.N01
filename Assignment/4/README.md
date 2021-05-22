@@ -8,10 +8,10 @@ Hãy xác định độ cao lớn nhất có thể đạt được của hàng r
 
 Dữ liệu: Vào từ thiết bị nhập chuẩn:
 
-Dòng đầu tiên chứa số nguyên n (1 ≤ n ≤ $10^5$),
-Dòng thứ 2 chứa n số nguyên a1, a2, . . ., an (1 ≤ ai ≤ $10^8$, i = 1 ÷ n),
+Dòng đầu tiên chứa số nguyên n (1 ≤ n ≤ 10^5),
+Dòng thứ 2 chứa n số nguyên a1, a2, . . ., an (1 ≤ ai ≤ 10^8, i = 1 ÷ n),
 Dòng thứ 3 chứa số nguyên m  (1 ≤ m ≤ 105),
-Dòng cuối cùng chứ m số nguyên b1, b2, . . ., bm (1 ≤ bj ≤ $10^8$, j = 1÷ m).
+Dòng cuối cùng chứ m số nguyên b1, b2, . . ., bm (1 ≤ bj ≤ 10^8, j = 1÷ m).
 Kết quả: Đưa ra thiết bị xuất chuẩn, dòng đầu tiên chứa 2 số nguyên h và k – độ cao lớn nhất có thể của hàng rào và số tấm gỗ đã được đóng thêm, mỗi dòng trong k dòng tiếp theo chứa 2 số nguyên x và y, trong đó x – tấm gỗ trên hàng rào được đóng cao hơn, y – tấm gỗ được dùng để đóng. Đưa ra phương án có các số hiệu tấm ván được chọn là nhỏ nhất nếu tồn tại nhiều cách đóng khác nhau.
 
 Ví dụ:
@@ -41,11 +41,11 @@ Ví dụ:
 
 # VU20_FRACTION - PHÂN SỐ
 
-Cho 2 phân số đúng và tối giản $a/b$ , $c/d$. Mỗi phép biến đổi là tăng a và b lên 1, sau đó giản ước phân số nhận được.
+Cho 2 phân số đúng và tối giản a/b , c/d. Mỗi phép biến đổi là tăng a và b lên 1, sau đó giản ước phân số nhận được.
 
 Hãy xác định sau bao nhiêu bước biến đổi từ phân số thứ nhất ban đầu nhận được phân số thứ 2 đã cho.
 
-Dữ liệu: Vào từ thiết bị nhập chuẩn gồm 4 dòng, mỗi dòng chứa 1 số nguyên a, b, c, d, 0 < a < b ≤ $10^5$, 0 < c < d ≤ $10^5$, a và b nguyên tố cùng nhau, c và d nguyên tố cùng nhau $a/b$ ≠  $c/d$
+Dữ liệu: Vào từ thiết bị nhập chuẩn gồm 4 dòng, mỗi dòng chứa 1 số nguyên a, b, c, d, 0 < a < b ≤ 10^5, 0 < c < d ≤ 10^5, a và b nguyên tố cùng nhau, c và d nguyên tố cùng nhau a/b ≠  c/d
 
 Kết quả: Đưa ra thiết bị xuất chuẩn số 0 nếu không có cách biến đổi hoặc một số nguyên – số lượng phép biến đổi.
 
