@@ -6,7 +6,7 @@ Công việc trồng cây mới sẽ bắt đầu sau khi toàn bộ cây cũ đ
 
 Hãy xác định sau bao nhiêu ngày thì có thể bắt đầu việc trồng mới cây.
 
-**Dữ liệu**: Vào từ thiết bị nhập chuẩn gồm một dòng chứa 5 số nguyên a, k, b, m và n (1 ≤ a, b ≤ {10^9}, 2 ≤ k, m ≤ 1018, 1 ≤ n ≤ 1018).
+**Dữ liệu**: Vào từ thiết bị nhập chuẩn gồm một dòng chứa 5 số nguyên a, k, b, m và n (1 ≤ a, b ≤ 10^9, 2 ≤ k, m ≤ 10^18, 1 ≤ n ≤ 10^18).
 
 **Kết quả**: Đưa ra thiết bị xuất chuẩn một số nguyên – số ngày tính được.
 
