@@ -1,4 +1,6 @@
-#VQ21_Wall - SỬA HÀNG RÀO
+[VQ21_Wall + VU20_FRACTION]
+
+# VQ21_Wall - SỬA HÀNG RÀO
 
 Sau khi dựng xong nhà kho chứa cỏ, dì Poly quyết định dùng m tấm gỗ còn thừa gia cố hàng rào của vườn rau ngăn không cho gà vào phá và giao công việc này cho Tôm và Hấc Phin làm. Nhiệm vụ của hai cậu bé tội nghiệp là đóng thêm vào các tấm ván hàng rào để có hàng rào mới càng cao càng tốt. Nhìn vẽ mặt buồn thiu và lóng ngóng của 2 đứa Jim quyết định sẽ làm giúp. Hàng rào được ghép từ n tấm gỗ cùng độ rộng như nhau và bằng độ rộng của các tấm gỗ còn thừa, tấm thứ i có độ cao ai, i = 1 ÷ n. Tôm và Hấc Phin chỉ phải xếp các tấm còn thừa lên xe ba gác để Jim kéo đi. Các tấm gỗ được xếp thành một chồng, tính từ trên xuống tấm thứ j có độ dài bj, j = 1 ÷ m. Jim kéo xe ba gác đi dọc theo hàng rào. Đến một tấm nào đó muốn gia cố Jim sẽ lấy một tấm gỗ từ xe đóng tiếp lên tấm gỗ trên hàng rào và độ cao mới của tấm này trên hàng rào sẽ là tổng độ cao của tấm cũ và tấm mới đóng thêm. Jim chỉ đóng thêm một tấm mới vào tấm cũ vì muốn đảm bảo độ chắc chắn của hàng rào. Jim có thể lấy tấm trên cùng ở xe hoặc vất ra khỏi xe một số tấm cho đến khi gặp tấm vừa ý. Người ta vẫn nói “Khôn đâu tới trẻ, khỏe đâu tới già!”  Jim đã đứng tuổi và không còn sức để xếp lại các tấm gỗ bị bỏ ra vào xe. Ngoài ra, Jim cũng khá mê tín nên không quay lại lấy những tấm đã loại.
 
@@ -37,7 +39,7 @@ Ví dụ:
 4 6
 
 
-#VU20_FRACTION - PHÂN SỐ
+# VU20_FRACTION - PHÂN SỐ
 
 Cho 2 phân số đúng và tối giản $a/b$ , $c/d$. Mỗi phép biến đổi là tăng a và b lên 1, sau đó giản ước phân số nhận được.
 
